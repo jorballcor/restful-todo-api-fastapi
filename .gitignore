@@ -1,0 +1,85 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+env.bak/
+venv.bak/
+
+# pipenv
+Pipfile.lock
+
+# pyenv
+.python-version
+
+# Pyre type checker
+.pyre/
+
+# Pydantic compiled models
+*.pyd
+
+# VS Code settings
+.vscode/
+
+# Pytest cache
+.cache/
+
+# Mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# Pyright
+pyrightconfig.json
+
+# Coverage reports
+coverage.xml
+*.cover
+.coverage
+coverage/
+htmlcov/
+
+# Logs
+*.log
+
+# Unit test and debug files
+.pytest_cache/
+test-results/
+
+# Local env files (secrets, tokens, etc.)
+.env
+.env.*
+
+# SQLite database files (if used temporarily)
+*.sqlite3
+
+# Docker-related
+__docker_build__/
